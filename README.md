@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BHoenigman
 - 👀 I’m interested in linguistics
-- 🌱 I’m currently learning CS...with absolutely 0 past experience
+- 🌱 I’m currently learning python, my first programming language
 - 📫 How to reach me : bhoenigman@uchicago.edu
 - 😄 Pronouns: she/her/hers
 
